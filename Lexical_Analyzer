@@ -61,8 +61,11 @@ print("Delimiters: ",detect_delimiters(text))
 print("Identifiers: ",detect_identifiers(text))
 print("Numbers: ",detect_num(text))
 
+#input
 Enter text
 A compiler translates the code written in one language to some other language main if so then else begin with > or + True or False or 1 or 10 ;
+
+#output
 Keywords:  ['if', 'else', 'main']
 Operators:  ['>', '+']
 Delimiters:  [';']
